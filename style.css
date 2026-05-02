@@ -7,6 +7,7 @@
 }
 
 .container {
+  margin:5%;
   height : 100vh;
   display: flex;
 align-items: center;
@@ -22,7 +23,7 @@ justify-content: center;
   gap: 11px;
   background-color : #DFE3EE;
   border-radius :20px;
-  padding : 11% 7%;
+  padding : 7% 5%;
 }
 
 input{
