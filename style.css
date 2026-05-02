@@ -4,7 +4,7 @@
   font-weight: bold;
   border-radius : 50%;
   color: darkgoldenrod;
-  
+}
 
 .container {
   height : 100vh;
@@ -31,12 +31,8 @@ input{
   border-radius : 30px;
   text-align: end;
   font-size :50px;
-border : 2px #8B9DC3 solid;
-padding : 1%;
-}
-}
-
-input::placeholder {
+  border : 2px #8B9DC3 solid;
+  padding : 1%;
   background-color : antiquewhite;
 }
 
