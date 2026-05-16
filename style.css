@@ -59,8 +59,8 @@ background-color:  #ffffe6;
 
   .calculator{
     padding: 7% 3%;
-    height: 270px;
-    width: 200px;
+    height: 267px;
+    width: 185px;
     grid-template-columns: repeat(4, 35px);
     grid-template-rows: repeat(6, 35px);
     gap: 7px;
