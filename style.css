@@ -58,7 +58,7 @@ background-color:  #ffffe6;
   }
 
   .calculator{
-    padding-top: 7% 4%;
+    padding: 7% 3%;
     height: 270px;
     width: 200px;
     grid-template-columns: repeat(4, 35px);
